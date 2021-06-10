@@ -1827,8 +1827,6 @@ async function loaded() {
           <div class="button-list">
             <button id="import" title="import a domino project">📂 import from html</button>
             <button id="export" title="export as html">📦 export to html</button>
-            <button id="neocities-start" title="begin neocities publish">😻 publish to neocities</button>
-            <button id="neocities-open" data-export-hide="" title="open published neocities" disabled="" hidden="">👀 open neocities page</button>
             <button id="reset" title="remove all cards">❌ remove all cards</button>
           </div>
           <input id="import-file" type="file" accept=".html" hidden="">
